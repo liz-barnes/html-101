@@ -11,6 +11,7 @@ ul {
   background-color: darkgoldenrod;
   height: 50px;
   overflow: hidden;
+  font-size: 18px;
 }
 
 li {
@@ -58,3 +59,33 @@ footer {
   height: 100px;
 
 }
+
+h1 {
+  color: white;
+  margin: 30px;
+  font-size: 60px;
+}
+
+div h2 {
+  text-align: center;
+  color: white;
+  font-size: ;
+  
+}
+
+.humans {
+  width: 20%;
+  border: 1px solid white;
+  float: left;
+  margin: 25px;
+}
+
+.humans:hover {
+  background-color: darkgoldenrod;
+}
+
+.humans img {
+  height: 300px;
+  align-content: center;
+  margin: 15px 50px;
+} 
