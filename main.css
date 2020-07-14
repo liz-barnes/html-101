@@ -27,3 +27,24 @@ li a {
 li a:hover {
   background-color: black;
 }
+
+section {
+  padding: 20px;
+  border: 1px solid gainsboro;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+section:last-of-type {
+  margin-bottom: 50px;
+}
+
+footer {
+  color: white;
+  background-color: thistle;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  height: 30px;
+}
