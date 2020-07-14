@@ -48,3 +48,13 @@ footer {
   bottom: 0;
   height: 30px;
 }
+
+.card {
+  border: 1px solid lightgrey;
+  width: 30%;
+}
+
+.card img {
+  height: 100px;
+
+}
